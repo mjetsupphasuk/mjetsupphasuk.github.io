@@ -9,4 +9,4 @@ redirect_from:
 
 I am a 4th year PhD candidate in Biostatistics at the University of North Carolina at Chapel Hill. My statistical research interests include causal inference, spatial/network statistics, and nonparametric estimation / machine learning. My substantive interests are wide-ranging but include environmental health, health policy, and development economics. 
 
-If you are interested in collaborating on a project related to causal inference with observational data in one of the above topic areas, please reach out to me.
+If you have data in one of the above topic areas for a research question related to causal inference and would like to collaborate, please reach out to me.
