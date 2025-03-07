@@ -3,6 +3,7 @@ title: "Finite sample performance of optimal treatment rule estimators with righ
 collection: publications
 permalink: /publication/paper-2
 date: January 2024
+authors: <b>Jetsupphasuk M</b>, Hudgens MG, Edwards JK, Cole SR
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2401.03084.pdf'
 citation: 'Jetsupphasuk M, Hudgens MG, Edwards JK, Cole SR. Finite sample performance of optimal treat-
