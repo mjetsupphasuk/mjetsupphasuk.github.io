@@ -1,0 +1,12 @@
+---
+title: "Difference-in-differences with stochastic policy shifts of continuous treatments"
+collection: publications
+permalink: /publication/did-stochastic
+date: December 2025
+authors: <b>Jetsupphasuk M</b>, Fang C, Li D, Hudgens MG
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2512.00296'
+citation: 'Jetsupphasuk M, Fang C, Li D, Hudgens MG. Difference-in-differences with stochastic policy shifts of continuous treatments. 2025. arXiv. https://arxiv.org/abs/2512.00296'
+---
+
+Abstract: Treatment effects under stochastic policy shifts quantify differences in outcomes across counterfactual scenarios with varying treatment distributions. Stochastic policy shifts generalize common notions of treatment effects since they include deterministic interventions (e.g., all individuals treated versus none treated) as a special case. While stochastic policy effects have been examined under causal exchangeability, they have not been integrated into the difference-in-differences (DiD) framework, which relies on parallel trends rather than exchangeability. In this paper, nonparametric efficient estimators of stochastic intervention effects are developed under a DiD setup with continuous treatments. The proposed causal estimand is the average stochastic dose effect among the treated, where the stochastic dose effect is the contrast between potential outcomes under a counterfactual dose distribution and no treatment. Several possible stochastic interventions are discussed, including those that do and do not depend on the observed data distribution. For generic stochastic interventions, the causal estimand is identified under standard conditions and estimators are proposed. Then, we focus on a specific stochastic policy shift, the exponential tilt, that increments the conditional density function of the continuous dose. For the exponential tilt intervention, a nonparametric estimator is proposed that allows for data-adaptive, machine learning nuisance function estimation. Under mild convergence rate conditions, the estimator is shown to be root-n consistent and asymptotically normal with variance attaining the nonparametric efficiency bound. The proposed method is used to study the effect of hydraulic fracturing activity on employment and income. 

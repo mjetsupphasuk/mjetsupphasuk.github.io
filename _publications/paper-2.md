@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-2
 date: January 2024
 authors: <b>Jetsupphasuk M</b>, Hudgens MG, Edwards JK, Cole SR
-venue: 'ArXiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2401.03084.pdf'
 citation: 'Jetsupphasuk M, Hudgens MG, Edwards JK, Cole SR. Finite sample performance of optimal treat-
 ment rule estimators with right-censored outcomes. 2024. arXiv. https://arxiv.org/abs/2401.03084'

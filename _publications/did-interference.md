@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/did-interference
 date: February 2025
 authors: <b>Jetsupphasuk M</b>, Li D, Hudgens MG
-venue: 'ArXiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2502.03414'
 citation: 'Jetsupphasuk M, Li D, Hudgens MG. Estimating causal effects using difference-in-differences under network dependency and interference. 2025. arXiv. https://arxiv.org/abs/2502.03414'
 ---

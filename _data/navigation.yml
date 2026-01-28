@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers"
+    url: /papers/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -16,7 +16,10 @@ main:
     url: /year-archive/
     
   # - title: "CV / R\u00E9sum\u00E9"
-  #   url: httsp://mjetsupphasuk.github.io/files/cv.pdf
+  #   url: https://mjetsupphasuk.github.io/files/cv.pdf
+
+  - title: "CV"
+    url: /files/jetsupphasuk_cv.pdf
     
   # - title: "Guide"
   #   url: /markdown/
